@@ -22,3 +22,7 @@ Con_*.csv, filter=lfs diff=lfs merge=lfs -text
 Con_가격_날짜잘림.csv filter=lfs diff=lfs merge=lfs -text
 Con_가격1.csv filter=lfs diff=lfs merge=lfs -text
 Con_가격2.csv filter=lfs diff=lfs merge=lfs -text
+Con_등급_part1_1.csv filter=lfs diff=lfs merge=lfs -text
+Con_등급_part1_2.csv filter=lfs diff=lfs merge=lfs -text
+Con_등급_part2_1.csv filter=lfs diff=lfs merge=lfs -text
+Con_등급_part2_2.csv filter=lfs diff=lfs merge=lfs -text
