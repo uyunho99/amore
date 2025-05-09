@@ -31,3 +31,5 @@ control_ver1.csv filter=lfs diff=lfs merge=lfs -text
 CUST_INFO.csv filter=lfs diff=lfs merge=lfs -text
 CUST_SAL1.csv filter=lfs diff=lfs merge=lfs -text
 CUST_SAL2.csv filter=lfs diff=lfs merge=lfs -text
+panel_incsno_part2_2.csv filter=lfs diff=lfs merge=lfs -text
+panel_real_incsno.csv filter=lfs diff=lfs merge=lfs -text
