@@ -28,3 +28,6 @@ Con_등급_part2_1.csv filter=lfs diff=lfs merge=lfs -text
 Con_등급_part2_2.csv filter=lfs diff=lfs merge=lfs -text
 control.csv filter=lfs diff=lfs merge=lfs -text
 control_ver1.csv filter=lfs diff=lfs merge=lfs -text
+CUST_INFO.csv filter=lfs diff=lfs merge=lfs -text
+CUST_SAL1.csv filter=lfs diff=lfs merge=lfs -text
+CUST_SAL2.csv filter=lfs diff=lfs merge=lfs -text
